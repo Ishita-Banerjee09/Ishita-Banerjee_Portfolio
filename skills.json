@@ -1,0 +1,74 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }, 
+    {
+        "name": "Accounting",
+        "icon": "./assets/images/skills/accounting.png"
+    },  
+    {
+        "name": "Autocad",
+        "icon": "./assets/images/skills/autocad.png"
+    }, 
+    {
+        "name": "Backend",
+        "icon": "./assets/images/skills/backend.png"
+    }, 
+    {
+        "name": "Frontend",
+        "icon": "./assets/images/skills/coding.png"
+    }, 
+    {
+        "name": "Creativity",
+        "icon": "./assets/images/skills/creativity.png"
+    }, 
+    {
+        "name": "Django",
+        "icon": "./assets/images/skills/django.png"
+    }, 
+    {
+        "name": "Power Point",
+        "icon": "./assets/images/skills/powerpoint.png"
+    }, 
+    {
+        "name": "Solving",
+        "icon": "./assets/images/skills/problem-solving.png"
+    }, 
+    {
+        "name": "Speaking",
+        "icon": "./assets/images/skills/speaking.png"
+    },
+    {
+        "name": "Teamwork",
+        "icon": "./assets/images/skills/teamwork.png"
+    },
+    {
+        "name": "C",
+        "icon": "./assets/images/skills/c.png"
+    }
+]
